@@ -1,0 +1,20 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/AC.v,1713591307,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/ALU.v,,AC,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/ALU.v,1713603423,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/AR.v,,ALU,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/AR.v,1713541936,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/Bus_Selector.v,,AR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/Bus_Selector.v,1715059593,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/DR.v,,Bus_Selector,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/DR.v,1713541727,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/INPR.v,,DR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/INPR.v,1713768627,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/IR.v,,INPR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/IR.v,1713764411,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/MEM.v,,IR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/MEM.v,1715032487,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/OUTPR.v,,MEM,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/OUTPR.v,1713916991,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/PC.v,,OUTPR,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/PC.v,1713554774,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/Processor.v,,PC,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/PR_tb.v,1715009275,verilog,,,,PR_tb,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/Processor.v,1715029793,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/RU.v,,Processor,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/RU.v,1713590236,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/SC.v,,RU,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/SC.v,1715029202,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/TR.v,,SC,,,,,,,,
+C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/TR.v,1713555125,verilog,,C:/Users/Ahmed Atef/OneDrive/Desktop/Micro Final Project/MP/MP.srcs/sources_1/new/PR_tb.v,,TR,,,,,,,,
